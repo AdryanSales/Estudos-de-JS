@@ -1,0 +1,15 @@
+body{
+    margin: 2%;
+    padding: 2%;
+    background-image: radial-gradient(rgb(57, 66, 187), rgb(2, 8, 46));
+    color: white;
+    font-family: Montserrat;
+}
+
+body section.exemplo01 {
+    padding: 1%;
+}
+
+body p.legenda {
+    font-size: 70%;
+}
